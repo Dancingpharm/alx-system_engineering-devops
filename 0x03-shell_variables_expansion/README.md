@@ -1,2 +1,1 @@
-#!/bin/bash
-this prints differents scripts
+Shell variables and expansions task
